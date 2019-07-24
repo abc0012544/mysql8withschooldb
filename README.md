@@ -37,8 +37,5 @@ Test1234
 
 ### Author
 * v1.0: Johnny Tsao
-
-Test++
+Test
 Test01
-Test-R2
-
